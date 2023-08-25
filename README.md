@@ -2,7 +2,6 @@
  ICA Profile for UAE POC
 
 
-https://github.com/hemal08ce094/ICPValidator/assets/21290914/bf52660d-19bc-48cd-a0b1-b4f2a35fd3f2
 
 
  
